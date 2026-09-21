@@ -21,7 +21,7 @@
 
 `EcoLearn` is a project tha **(briefly describe the purpose of the repo here)**. Replace this paragraph with a short explanation of what the project does, who it's for, and why it exists.
 
-Examples:
+Example:::
 
 * A lightweight command-line text editor inspired by classic UNIX editors.
 * A minimal web UI for visualizing data produced by X.
